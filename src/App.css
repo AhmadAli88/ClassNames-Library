@@ -60,3 +60,33 @@
   background-color: lightgray;
   color: white;
 }
+.alert-success{
+  background-color: lightgreen;
+  color: white;
+}
+.alert-error{
+  background-color: red;
+  color: white;
+}
+.alert-warning{
+  background-color: yellow;
+  color: white;
+}
+
+
+
+/* Style for the default button */
+.button-two {
+  padding: 10px 20px;
+  border: none;
+  background-color: purple;
+  color: #fff;
+  cursor: pointer;
+  font-size: 16px;
+  border-radius: 5px;
+}
+
+/* Style for the active button */
+.button-two-active {
+  background-color: #4CAF50; /* Green */
+}
