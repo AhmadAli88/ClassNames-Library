@@ -40,3 +40,23 @@
 .read-the-docs {
   color: #888;
 }
+.button-primary{
+  background-color: lightskyblue;
+  color: white;
+}
+.button-secondary{
+  background-color: #888;
+  color: white;
+}
+.button-disabled{
+  background-color: hotpink;
+  color: white;
+}
+.button-active{
+  background-color: lightgreen;
+  color: white;
+}
+.button-inactive{
+  background-color: lightgray;
+  color: white;
+}
